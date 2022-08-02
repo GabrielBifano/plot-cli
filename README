@@ -1,0 +1,23 @@
+Entrada:
+
+    Operações:
+
+        CALC: calcula a expressão dada na mesma linha
+        PLOT: imprime a equação dada na mesma linha
+
+    Sinais de operações:
+        
+        soma:               +
+        subtração:          -
+        multiplicação:      *
+        divisão:            /
+        módulo:             %
+        potenciação:        ^
+        igualdade:          =
+        diferença:          !
+
+    Outros sinais suportados:
+
+        parênteses:         ()
+        colchetes:          {}
+        chaves:             []
